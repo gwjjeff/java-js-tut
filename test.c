@@ -4,5 +4,6 @@
 int main() {
 // comment 1 in bugfix1
 // comment in master
+// comment 2 in bugfix1
 return 0;
 {
